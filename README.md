@@ -1,5 +1,5 @@
 # 💫 About Me:
-An Undergraduate computer science engineering student. My academic foudation has equipped me with strong skills in programming,data structures,algorithms,and software development. I enjoy learning emerging technologies such as Artificial intelligence,machine learning,web development, and Cloud computing.
+An undergraduate computer science engineering student. My academic foudation has equipped me with strong skills in programming,data structures,algorithms,and software development. I enjoy learning emerging technologies such as Artificial intelligence,machine learning,web development, and Cloud computing.
 
 
 ## 🌐 Socials:
